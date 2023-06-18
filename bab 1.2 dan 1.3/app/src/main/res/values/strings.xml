@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="article_subtitle">RESEP LUMPIA GORENG</string>
+    <string name="article_text">
+    <b>RESEP LUMPIA</b>\n
+    <b>Jakarta, 10 Juni 2023</b>
+
+
+        \nAdonan Isi:
+        4 sdm minyak goreng\n
+        6 siung bawang putih, cincang\n
+        10 butir bawang merah, cincang\n
+        350 g rebung rebus, iris batang korek api\n
+        200 g udang kupas, cincang kasar\n
+        100 g daging ayam rebus, cincang kasar\n
+        4 sdm ebi halus, sangrai\n
+        5 batang daun bawang cung, iris halus\n
+        \n\n
+        Bumbu Halus:\n
+        1 sdm minyak wijen\n
+        1½ sdm kecap asin\n
+        1 sdm kecap manis\n
+        ½ sdt merica bubuk\n
+        1 sdm gula pasir\n
+        ½ sdt garam\n
+        Saus, Masak Hingga Kental Dan Licin:\n
+        4 siung bawang putih, cincang\n
+        30 g gula merah, sisir\n
+        ½ sdt cuka masak\n
+        1 sdt garam\n
+        1 sdm gula pasir\n
+        1½ sdm tepung kanji\n
+        250 ml air\n\n
+        Pelengkap:\n
+        lokio, siangi, cuci bersih\n
+        acar mentimun rawit hijau\n
+    </string>
+    <string name="selesai">selesai</string>
+</resources>

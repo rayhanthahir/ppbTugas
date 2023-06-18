@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bab 2.3</string>
+    <string name="open_youtube">Open Youtube</string>
+    <string name="dial_number">Dial Number</string>
+    <string name="open_map">Open Map</string>
+    <string name="share_text">Share Text</string>
+</resources>
